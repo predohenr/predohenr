@@ -3,7 +3,6 @@
 <p> 🔭 I’m currently studying Computer Science in Universidade Federal do Cariri. </p>
 <p> 🌱 I’m currently learning: C++, C, Java, Python and HTML </p>
 <p> 📫 How to reach me: lopes.pedro@aluno.ufca.edu.br </p>
-<p> ⚡ Fun Fact: I love to play piano and sing
 
 <details>
   <summary><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">👩‍🏫</g-emoji>Most Used Languages</summary>
