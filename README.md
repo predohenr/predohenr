@@ -1,4 +1,4 @@
-### Hi there, i'm Pedro - aka predo 👋
+### Hi there, i'm Pedro 👋
 
 <p> 🔭 I’m currently studying Computer Science in Universidade Federal do Cariri. </p>
 <p> 🌱 I’m currently learning: C++, C, Java, Python and HTML </p>
